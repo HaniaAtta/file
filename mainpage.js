@@ -36,3 +36,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     addDataBtn.addEventListener("click", addData);
 });
+
+
+console.log("Data added successfully");
